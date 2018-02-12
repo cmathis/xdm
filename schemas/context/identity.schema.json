@@ -20,7 +20,7 @@
             },
             "xdm:namespace":{
                "title":"Namespace",
-               "$ref":"https://ns.adobe.com/xdm/common/namespace#/definitions/namespace",
+               "$ref":"https://ns.adobe.com/xdm/context/namespace",
                "description":"The namespace associated with the id attribute and matched up with the AAM data source integration code."
             }
          }
