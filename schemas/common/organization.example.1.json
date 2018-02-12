@@ -1,5 +1,5 @@
 {
-  "@id": "https://data.adobe.io/entities/org/orgid111",
+  "@id": "https://ns.adobe.com/entities/org/orgid111",
   "xdm:legalName": "ABC Stores",
   "xdm:numberOfEmployees": 200,
   "xdm:industry": "Retail",
@@ -7,7 +7,7 @@
   "rating": 1,
   "xdm:marketSegment": "apparel for kids",
   "xdm:location": {
-    "@id": "https://data.adobe.io/entities/places/locid123",
+    "@id": "https://ns.adobe.com/entities/places/locid123",
     "schema:description": "ABC Store location",
     "xdm:address": {
       "@id": "https://ns.adobe.com/entities/address/123",
