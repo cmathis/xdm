@@ -15,7 +15,7 @@
       "properties": {
         "https://ns.adobe.com/experience/identity/realmId": {
           "title": "Realm ID",
-          "$ref": "https://ns.adobe.com/xdm/common/datasource",
+          "$ref": "https://ns.adobe.com/xdm/data/datasource",
           "description": "The optional realm associated with the identity stitching strategy."
         },
         "https://ns.adobe.com/experience/identity/nativeXid": {
