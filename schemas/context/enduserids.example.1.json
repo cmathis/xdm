@@ -1,19 +1,19 @@
 {
-  "https://ns.adobe.com/experience/enduserids/mcId": {
+  "https://ns.adobe.com/experience/mcId": {
     "xdm:id": "mcId-123",
     "xdm:namespace": {
       "xdm:id": 11111,
       "xdm:code": "AA111"
     }
   },
-  "https://ns.adobe.com/experience/enduserids/analytics": {
+  "https://ns.adobe.com/experience/analytics": {
     "xdm:id": "analyticId-123",
     "xdm:namespace": {
       "xdm:id": 11112,
       "xdm:code": "AA112"
     }
   },
-  "https://ns.adobe.com/experience/enduserids/identity": {
+  "https://ns.adobe.com/experience/identity": {
     "xdm:id": "identityid-123",
     "xdm:namespace": {
       "xdm:id": 11113,

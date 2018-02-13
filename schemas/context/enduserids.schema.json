@@ -13,17 +13,17 @@
   "definitions": {
     "enduserids": {
       "properties": {
-        "https://ns.adobe.com/experience/enduserids/mcId": {
+        "https://ns.adobe.com/experience/mcId": {
           "title": "Adobe Marketing Cloud Id",
           "$ref": "https://ns.adobe.com/xdm/context/identity",
           "description": "A unique identifier from Adobe Marketing Cloud."
         },
-        "https://ns.adobe.com/experience/enduserids/analytics": {
+        "https://ns.adobe.com/experience/analytics": {
           "title": "Adobe Analytics Cloud End User Ids",
           "$ref": "https://ns.adobe.com/xdm/context/identity",
           "description": "Adobe Analytics Cloud extension to End User Ids."
         },
-        "https://ns.adobe.com/experience/enduserids/identity": {
+        "https://ns.adobe.com/experience/identity": {
           "title": "Adobe Identity Service End User Ids",
           "$ref": "https://ns.adobe.com/xdm-extensions/experience/identity/enduserids",
           "description": "Adobe Identity Service extension to End User Ids."
